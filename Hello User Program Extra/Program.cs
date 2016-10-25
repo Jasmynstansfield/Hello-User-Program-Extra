@@ -16,7 +16,7 @@ namespace Hello_User_Program_Extra
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmGreetings());
+            Application.Run(new frmHelloUser());
         }
     }
 }

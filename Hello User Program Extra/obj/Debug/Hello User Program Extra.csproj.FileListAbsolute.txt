@@ -1,0 +1,9 @@
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\bin\Debug\Hello User Program Extra.exe.config
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\bin\Debug\Hello User Program Extra.exe
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\bin\Debug\Hello User Program Extra.pdb
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\obj\Debug\Hello User Program Extra.csprojResolveAssemblyReference.cache
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\obj\Debug\Hello_User_Program_Extra.Properties.Resources.resources
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\obj\Debug\Hello User Program Extra.csproj.GenerateResource.Cache
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\obj\Debug\Hello User Program Extra.exe
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\obj\Debug\Hello User Program Extra.pdb
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\Hello User Program Extra\Hello User Program Extra\obj\Debug\Hello_User_Program_Extra.frmHelloUser.resources
